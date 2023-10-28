@@ -27,6 +27,7 @@ To train the networks udacity provided bootleneck features which can be download
 
 The process is presentet at medium blog post:
 https://medium.com/@khoachubach/dog-breeds-classification-481245f5c941
+My personal github also: https://github.com/khoachubach/KhoaCB_Dog_Breed_Classifier-Capstone-Project.git
 
 # Review & References 
 
