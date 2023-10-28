@@ -1,7 +1,7 @@
-# KhoaCB_Dog_Breed_Classifier-Capstone-Project
-- KhoaCB_Dog_Breed_Classifier Capstone Project 
+## KhoaCB_Dog_Breed_Classifier-Capstone-Project
+# KhoaCB_Dog_Breed_Classifier Capstone Project 
 
-- Overview 
+# Overview 
 
 In this project three different Convolutional Neural Networks (CNN) are trained to classified dog breeds. Additionally, the final model is also used to classify actors as dog breeds. (Of course this is just for entertaining.)
 
@@ -12,7 +12,7 @@ The three networks are:
 
 The custom build network achieves just an accuracy of 4% while the VGG16 achieves 40% and the ResNet50 about 80%. This example clearly shows the benefit of using a pretrained model.
 
-- How it works 
+# How it works 
 
 The plain workspace can be cloned from udacity
 
@@ -24,12 +24,12 @@ To train the networks udacity provided bootleneck features which can be download
 + https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
 + https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
 
-- Personal Blog Post 
+# Personal Blog Post 
 
 The process is presentet at medium blog post:
 https://medium.com/@khoachubach/dog-breeds-classification-481245f5c941
 
-- Review & References 
+# Review & References 
 
 + I'd recommend structuring the project writeup so that each rubric item is addressed in its own section (Project Overview, Problem Statement, Metrics etc.). Blog: https://medium.com/@khoachubach/dog-breeds-classification-481245f5c941
 + [Towards Data Science publication on Medium.](https://towardsdatascience.com/)
