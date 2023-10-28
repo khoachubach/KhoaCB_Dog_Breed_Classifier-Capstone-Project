@@ -1,5 +1,4 @@
 ## KhoaCB_Dog_Breed_Classifier-Capstone-Project
-# KhoaCB_Dog_Breed_Classifier Capstone Project 
 
 # Overview 
 
